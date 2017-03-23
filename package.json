@@ -1,0 +1,19 @@
+{
+  "name": "young-caritas-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsharabayko/young-caritas-server.git"
+  },
+  "author": "Alex Sharabayko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsharabayko/young-caritas-server/issues"
+  },
+  "homepage": "https://github.com/alexsharabayko/young-caritas-server#readme"
+}
